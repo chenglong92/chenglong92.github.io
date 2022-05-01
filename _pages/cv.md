@@ -27,7 +27,7 @@ Work experience
 ======
 * Apr. 2021 - Apr. 2023(Current Position): Research Associate
   * Compiler and Programming Language Lab., Huawei BRC, Beijing, China
-  * Research Topics: mixed-precision algorithms and computational physics applications. 
+  * Research Topics: heterogeneous programming, mixed-precision algorithms and computational physics applications. 
 
 * Jan. 2020 - Apr. 2020: Internship Researcher
   * Huawei Cambridge Research Center(CRC), Cambridge, UK
