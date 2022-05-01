@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Long's Homepage"
 title_separator          : "-"
 name                     : &name "Long Cheng"
-description              : &description "High-performance Mathematical&Physical Algorithms and Domain-specific Arthitectures(DSA)"
+description              : &description "Accelerating computational physics simulation by designing new numerical algorithms coupled with modern domain-specific chip architectures"
 url                      : https://chenglong92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenglong92/chenglong92.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Long Cheng"
   avatar           : "profile.png"
-  bio              : "Accelerating computational physics simulation by designing new numerical algorithms according to modern domain-specific chip architectures <br> <br> <a style='color: black;' >Research Associate</a>  at Beijing Research Center, <a style='color: black;' >Huawei 2012 Laboratory</a>, Comipler and Programming Language Laboratory"
+  bio              : "Accelerating computational physics simulation by designing new numerical algorithms coupled with modern domain-specific chip architectures <br> <br> <a style='color: black;' >Research Associate</a>  at Beijing Research Center(BRC), <a style='color: black;' >Huawei 2012 Laboratory</a>, Comipler and Programming Language Laboratory"
   location         : "Beijing, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
