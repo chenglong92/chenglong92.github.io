@@ -13,11 +13,11 @@ Education
 ======
 * B.S. in Aerospace Engineering, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
 * Ph.D in Aerospace Engineering, Beihang University(BUAA), Beijing, China, 2021
-  * Visiting PhD Student in Computational Fluid Dynamics, Engineering Department, University of Cambridge(CUED), Cambridge, UK, 2019-2020 
+  * Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 
 
 Work experience
 ======
-* Jan. 2021 - Current: Research Associate
+* Apr. 2021 - Apr. 2023(Current Position): Research Associate
   * Compiler and Programming Language Lab., Huawei BRC, Beijing, China
   * Research Topics: mixed-precision algorithms and computational physics applications. 
 
