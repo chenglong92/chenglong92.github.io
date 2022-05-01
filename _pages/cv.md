@@ -18,6 +18,7 @@ Education
 Honor and Awards
 ======
 * First-class Sponsorship from China Scholarship Council (CSC, 2019)
+* Scholarship for Excellent New PHD Candidate(BUAA, 2015)
 * Best Paper Award for Graduation Design and University Outstanding Graduate(NWPU, 2014)
 * Meritorious Winner in the Mathematical Contest in Modeling (MCM2, SIAM&COMAP, USA, 2013) 
 * National Scholarship (2.2%, Ministry of Education of the People's Republic of China, 2013) 
