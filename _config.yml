@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Long's Homepage"
 title_separator          : "-"
 name                     : &name "Long Cheng"
-description              : &description "High-performance Mathematical&Physical Algorithms<br/> and Domain-specific Arthitectures(DSA)"
+description              : &description "---" #"High-performance Mathematical&Physical Algorithms<br/> and Domain-specific Arthitectures(DSA)"
 url                      : https://chenglong92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : " chenglong92/chenglong92.github.io"
+repository               : "chenglong92/chenglong92.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Long Cheng"
   avatar           : "profile.png"
-  bio              : "Computational Fluid Dynamics(CFD)  <br> <br> Numerical Analysis  <br> <br>  Mixed-precision Algorithm  <br> <br>  Domain-specific Architecture(DSA)  <br> <br> "
+  bio              : "abc" #"Computational Fluid Dynamics(CFD)  <br> <br> Numerical Analysis  <br> <br>  Mixed-precision Algorithm  <br> <br>  Domain-specific Architecture(DSA)  <br> <br> "
   location         : "Beijing, CN"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
