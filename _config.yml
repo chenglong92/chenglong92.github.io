@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Long Cheng"
   avatar           : "profile.png"
-  bio              : "Computational Fluid Dynamics(CFD)  <br> <br> Numerical Analysis  <br> <br>  Mixed-precision Algorithm  <br> <br>  Domain-specific Architecture(DSA)  <br> <br> "
+  bio              : "Computational Fluid Dynamics, Numerical Analysis, Mixed-precision Algorithm, Domain-specific Architecture"
   location         : "Beijing, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TIG3o6EAAAAJ&hl=zh-CN"
-  email            :
+  email            : hasen_chen@163.com
   researchgate     :  "https://scholar.google.com/citations?user=TIG3o6EAAAAJ&hl=zh-CN" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
