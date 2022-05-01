@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Long Cheng"
   avatar           : "profile.png"
-  bio              : "Computational Fluid Dynamics, <br> Numerical Analysis, <br> Mixed-precision Algorithm, <br> Domain-specific Architecture <br> <br> <a style='color: black;' >Research Associate</a>  at Beijing Research Center, <a style='color: black;' >Huawei 2012 Laboratory</a>, Comipler and Programming Language Laboratory"
+  bio              : "Accelerating computational physics simulation by designing new numerical algorithms according to modern domain-specific chip architectures <br> <br> <a style='color: black;' >Research Associate</a>  at Beijing Research Center, <a style='color: black;' >Huawei 2012 Laboratory</a>, Comipler and Programming Language Laboratory"
   location         : "Beijing, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
