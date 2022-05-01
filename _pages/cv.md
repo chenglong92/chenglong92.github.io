@@ -13,19 +13,17 @@ Education
 ======
 * B.S. in School of Power and Energy, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
 * Ph.D in School of Energy and Power Engineering, Beihang University(BUAA), Beijing, China, 2021
-* Visiting PhD Student(1-year full time) in Engineering Department, University of Cambridge(CUED), Cambridge, UK, 2019-2020 
+  * Visiting PhD Student in Engineering Department, University of Cambridge(CUED), Cambridge, UK, 2019-2020 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2021 - Current: Research Associate
+  * Compiler and Programming Language Lab., Huawei BRC, Beijing, China
+  * Research Topics: mixed-precision algorithms and computational physics applications. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2020 - Apr. 2020: Internship Researcher
+  * Huawei Cambridge Research Center(CRC), Cambridge, UK
+  * Research Topics: Mixed-precision algorithm and Scientific Computing
   
 Skills
 ======
