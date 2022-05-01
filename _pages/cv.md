@@ -37,24 +37,24 @@ Skills
   * Mixed-precision algorithm for dense matrix
   * Mixed-precision algorithm for sparse matrix on unstructured mesh
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Selected Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer reviewing
+  * AIAA Journal
+  * Computers & Fluids
+  * Chinese Journal of Aeronatics
+* Membership
+  * IEEE member
+  * UK Fluid Network member
