@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Power and Energy, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
-* Ph.D in School of Energy and Power Engineering, Beihang University(BUAA), Beijing, China, 2021
-  * Visiting PhD Student in Engineering Department, University of Cambridge(CUED), Cambridge, UK, 2019-2020 
+* B.S. in Aerospace Engineering, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
+* Ph.D in Aerospace Engineering, Beihang University(BUAA), Beijing, China, 2021
+  * Visiting PhD Student in Computational Fluid Dynamics, Engineering Department, University of Cambridge(CUED), Cambridge, UK, 2019-2020 
 
 Work experience
 ======
