@@ -27,12 +27,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++(working language), SYCL(working language), FORTRAN, PYTHON(working language), MATLAB et al.
+* AI NPU(neural network) domain-specific architecture(DSA)
+* Computational Fluid Dynamics
+  * Wall boundary conditions for high-order Computational Aeroacoustics(CAA) methods
+  * MPI-based distributed parallel CFD Solver(FDM)
+  * Synthetic Turbulence
+* Scientif Computing
+  * Mixed-precision algorithm for dense matrix
+  * Mixed-precision algorithm for sparse matrix on unstructured mesh
 
 Publications
 ======
