@@ -15,6 +15,13 @@ Education
 * Ph.D in Aerospace Engineering, Beihang University(BUAA), Beijing, China, 2021
   * Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 
 
+Honor and Awards
+======
+* First-class Sponsorship from China Scholarship Council (CSC, 2019)
+* Best Paper Award for Graduation Design and University Outstanding Graduate(NWPU, 2014)
+* Meritorious Winner in the Mathematical Contest in Modeling (MCM2, SIAM&COMAP, USA, 2013) 
+* National Scholarship (2.2%, Ministry of Education of the People's Republic of China, 2013) 
+
 Work experience
 ======
 * Apr. 2021 - Apr. 2023(Current Position): Research Associate
