@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Long's Homepage"
 title_separator          : "-"
 name                     : &name "Long Cheng"
-description              : &description "---" #"High-performance Mathematical&Physical Algorithms<br/> and Domain-specific Arthitectures(DSA)"
+description              : &description "High-performance Mathematical&Physical Algorithms and Domain-specific Arthitectures(DSA)"
 url                      : https://chenglong92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenglong92/chenglong92.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dr. Long Cheng"
   avatar           : "profile.png"
-  bio              : "abc" #"Computational Fluid Dynamics(CFD)  <br> <br> Numerical Analysis  <br> <br>  Mixed-precision Algorithm  <br> <br>  Domain-specific Architecture(DSA)  <br> <br> "
+  bio              : "Computational Fluid Dynamics(CFD)  <br> <br> Numerical Analysis  <br> <br>  Mixed-precision Algorithm  <br> <br>  Domain-specific Architecture(DSA)  <br> <br> "
   location         : "Beijing, CN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TIG3o6EAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  "https://scholar.google.com/citations?user=TIG3o6EAAAAJ&hl=zh-CN" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "chenglong92"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-6985-566X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
