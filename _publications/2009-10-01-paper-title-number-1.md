@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-05-01
-venue: 'Journal 1'
+venue: 'AIAA Journal'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Long Cheng, Lin Du, Xiaofeng Sun(2009). &quot;Inviscid Nonlinear Modeling of Vibration-Induced Acoustic Resonance of a Linear Cascade.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -12,4 +12,4 @@ citation: 'Long Cheng, Lin Du, Xiaofeng Sun(2009). &quot;Inviscid Nonlinear Mode
 
 [Download paper here](https://arc.aiaa.org/doi/abs/10.2514/1.J059501)
 
-Recommended citation: Long Cheng, Lin Du, Xiaofeng Sun(2009). "Inviscid Nonlinear Modeling of Vibration-Induced Acoustic Resonance of a Linear Cascade" <i>Journal 1</i>. 1(1).
+Recommended citation: Long Cheng, Lin Du, Xiaofeng Sun(2009). "Inviscid Nonlinear Modeling of Vibration-Induced Acoustic Resonance of a Linear Cascade" <i>AIAA Journal</i>. 1(1).
