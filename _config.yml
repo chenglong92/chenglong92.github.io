@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Long Cheng"
-  avatar           : "profile.png"
+  avatar           : "LCheng.jpeg" #"profile.png"
   bio              : "Accelerating computational physics simulation by designing new numerical algorithms adapted to modern domain-specific chip architectures <br> <br> <a style='color: black;' >Research Associate</a>  at Beijing Research Center(BRC), <a style='color: black;' >Huawei 2012 Laboratory</a>, Comipler and Programming Language Laboratory"
   location         : "Beijing, CN"
   employer         :
