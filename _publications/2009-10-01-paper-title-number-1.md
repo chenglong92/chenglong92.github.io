@@ -12,4 +12,4 @@ citation: 'Long Cheng, Lin Du, Xiaoyu Wang, Xiaofeng Sun(2021). &quot;Inviscid N
 
 [Download paper here](https://arc.aiaa.org/doi/abs/10.2514/1.J059501)
 
-Recommended citation: Long Cheng, Lin Du, Xiaoyu Wang, Xiaofeng Sun(2021). "Inviscid Nonlinear Modeling of Vibration-Induced Acoustic Resonance of a Linear Cascade" <i>AIAA Journal</i>. 1(1).
+Recommended citation: Long Cheng, Lin Du, Xiaoyu Wang, Xiaofeng Sun(2021). "Inviscid Nonlinear Modeling of Vibration-Induced Acoustic Resonance of a Linear Cascade" <i>AIAA Journal</i>. 59(5).
