@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "PHD Thesis"
+collection: BUAA PHD Thesis
+type: "Graduation Thesis"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Beihang University(BUAA), School of Energy and Power Engineering"
+date: 2021-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is the introduction of my PHD thesis work. 
 
-Heading 1
+Title: "Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+**[Abstract]** 
+}{%
+  Sound waves are mostly viewed as the undesirable by-product of unsteady aerodynamics or structural vibration in turbomachinery due to its small magnitude feature, and thus evaluated in an uncoupled manner. However, strong interaction among sound、fluid and structure possibly appears in modern high-loading turbomachinery. This category of interaction effect, to some extent, is thought to be associated with some influential factors to structural integrity such as acoustic resonance (AR) and acoustic flutter. On the other hand, it is found that multiphysics coupling effect also has a positive side. It laid a solid foundation for many modern active and passive control techniques for aerodynamic noise and flow instability. For instance, acoustic liner design and Stall precursor-suppressed (SPS) casing treatment have a closely-knit relationship with vortex-sound interaction. Hence, the improvement of the comprehensive understanding to the multiphysics coupling effect is definitely beneficial to the development of much more effective active or passive control techniques. Distinct with the mostly-adopted Lighthill's acostic analogy theory in pure aeroacoustic problems, when associated with the multiphysics coupling effect associated with sound waves, the accurate description of the nonlinear processes of sound interacting with fluid and moving solid boundaries is quite essential. By directly solving nonlinear governing equations, it is generally accepted that modern computational aeroacoustics (CAA) is the one of the most appropriate ways to model these nonlinear processes. 
+  
+  To begin with CAA, it is extremely hard to handle the multiphysics coupling problems associated with flow-induced sound from moving boundaries based on current body-fitted-grid CAA methods. It is because of the contradictory issue of grid generation quality and efficiency. By contrast, the present work takes advantages of the good quality of Cartesian grid, and developed compressible body force model which is suitable for high-order CAA schemes with the help of immersed boundary (IB) method. According to the discontinuity theory of Navier-Stokes(N-S) or Euler equation, the solid domain can be extended to a category of fictitious fluid domain using generalized functions, and correspondingly, wall boundaries are transformed into the time-varying body force sources in momentum equations on fixed Cartesian grid. Based on the high-order CAA methods and the compressible body force model, some typical multiphysics coupling factors such as nonuniform mean flow and vortex-sound resonance to the unsteady aerodynamics of turbomachinery were systematically studied in the current work. It is expected to improve the understanding of the multiphysics coupling mechanisms of the flow-induced sound problems in high-loading turbomachinery. Besides, it provided a quite robust numerical tool to possibly instruct the development of the low-order fast prediction models. The research contents in this paper are mainly composed of the following parts: 
+  
+  The compressible body force model called influence matrix method is developed on the basis of IB method and prediction-correction scheme. The model considers the interaction of adjacent boundary forcing points to obtain the boundary force equation. It makes the calculated body force model free from response delay and empirical parameters unlike feedback forcing IB methods. Furthermore, it is found that the coefficients matrix in the boundary force equation could be transformed to a highly sparse banded symmetric matrix, so the low storage scheme- jagged diagonal storage (JDS), and the fast solving algorithm-preconditional conjugate gradient method (PCGM), are developed. The model equation is also proposed to analyze the convergence and stability of the body force model, and correspondingly, the optimal parameter ranges for the grid size ratio (Cartesian mesh size to boundary mesh size) are given for several typical geometries. 
+  
+  Next, the 3D high-order CFD/CAA parallel solver is developed based on 3D domain decomposition on the fixed Cartesian grid. It is able to be utilized to solve fluid-solid-acoustic interaction problems. Particularly, to simulate inviscid nonlinear flow-induced sound problems, the numerical implementation of the unsteady Kutta condition is presented on the framework of body force model. It divides the unsteady Kutta condition into two essential aspects: no-penetration wall boundary condition (keep streamline always attached on the body surface) and leading/trailing edge singularity treatment. Correspondingly, the adaptive discontinuity-capturing filtering is implemented to keep the “global” high-order quality of high-order CAA methods. Several benchmark cases associated with flow-induced sound are utilized to validate the developed high-order solver. It is found that the developed body force model allows much larger CFD number $(O(10^{-1}))$ than feedback forcing IB methods $(O(10^{-3 \sim -2}))$. The 3D Taylor-Green vortex case is then used to verify that the parallel efficiency of the parallel solver could exceed $90\%$ even for 1000 CPU cores. 
+  
+  Subsequently, the linear acoustic scattering in non-uniform mean flow is preliminarily studied. The results indicate that contrast to real viscous mean flow, the adoption of parallel or potential mean flow assumption will cause different degrees of prediction errors of the sound directivities for different sound source positions. In particular, even when the sound source is away from the viscous core wake region, there is still a quite high prediction error in some directions where the “front arm structure” of the sound directivities is formed. 
+  
+  In the nonlinear flow-induced sound problems, the blade vibration-induced acoustic resonance is studied. This problem is related to the linear and nonlinear coupling of unsteady vortex, sound and blades. In linear situations, the predicted unsteady force on the blade and near-field sound modes are in good agreement with LINSUB solution; with the blade vibration amplitude increased, at resonant point, the transition from linear to nonlinear acoustic resonance appears, at which situation, obvious phase lag phenomenon occurs and the unsteady force amplitude is also increased in a nonlinear way. In the nonlinear acoustic resonance, if the linearized model is utilized, remarkable errors will be caused for the unsteady force and sound modes prediction. Furthermore, the vorticity moment theory is applied to analyze the mechanisms of the transition. The results suggest that the transition is mainly caused by the nonlinear amplification of the vortex generation force and vortex induction force and phase drift with increasing the blade vibration amplitude. The nonlinear relationship of unsteady force and phase drift with blade vibration amplitude is then summarized. It can help the development of weakly nonlinear theoretical models to economically predict the nonlinear phenomenon. Inspired by the Helmholtz resonator principle for acoustic attenuation, the locally acoustic anti-resonance principle is utilized to design an “ultra-silent” fan-stator passive control system to achieve the perfect elimination of rotor-stator interaction tone sources. The principle is preliminarily validated by simulating the gust-induced vibration and sound of a spring-supported cascade with the developed high-order solver. 
+  
+  Finally, the steady loading noise from the 3D open rotor is simulated. More than 80 millions mesh points are utilized for the total computation. But due to the utilization of 480 CPU cores, about 24 hours are only needed for the elapsed wall time on Tianhe-2 supercomputer to obtain long enough unsteady flow field and sound information for post-processing analysis. It exhibits the capability of the developed 3D parallel high-order CFD/CAA solver for direct noise computation with complex moving geometries. 
+}
+# 关键字-{中文}{英文}
+\Keyword{%Turbomachinery，Multiphysics Coupling，Flow-induced Sound，Cartesian Mesh，CAA，Immersed Boundary Method，Acoustic Resonance，Open Rotor}
