@@ -4,8 +4,8 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site. Also, my full name is Richard Stuart Geiger, even though I just go by Stuart. I show up as "Geiger, Richard Stuart" in various administrative databases. Here are some other places on the Internet where I reside.
+Please find me via the following information. (Updated on May 2, 2022)
 
 * E-mail: hasen_chen@163.com
-* Google Scholar: [author:geiger-r-stuart](http://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en)
-* Wikipedia: [staeiou](http://en.wikipedia.org/wiki/User:Staeiou)
+* Google Scholar: [author:Long Cheng](https://scholar.google.com/citations?user=TIG3o6EAAAAJ&hl=zh-CN)
+* Linkedin: [Long](https://www.linkedin.cn/incareer/in/long-cheng-a8b293129)
