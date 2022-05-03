@@ -1,7 +1,7 @@
 ---
 title: "PHD Thesis"
-collection: BUAA PHD Thesis
-type: "Graduation Thesis"
+collection: teaching
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Beihang University(BUAA), School of Energy and Power Engineering"
 date: 2021-01
