@@ -3,7 +3,7 @@ title: "Thesis"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Beihang University, School of Energy and Power Engineering"
+venue: "Beihang, Engineering"
 date: 2021-01-01
 location: "Beijing, China"
 ---
