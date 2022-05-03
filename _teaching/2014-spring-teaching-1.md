@@ -1,11 +1,11 @@
 ---
-title: "Thesis"
+title: "Teaching experience 1"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Beihang, Engineering"
-date: 2021-01-01
-location: "Beijing, China"
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
 This is the introduction of my PHD thesis work. 
