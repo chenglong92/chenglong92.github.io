@@ -1,7 +1,7 @@
 ---
 title: "My PHD Thesis Work"
 collection: teaching
-type: "Workshop"
+type: "Thesis"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Beihang University(BUAA), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory(FAEL)"
 date: 2021-01-01
