@@ -9,7 +9,7 @@ This is the introduction of my PHD thesis work.
 
 ![avatar](https://github.com/chenglong92/chenglong92.github.io/blob/master/images/Figure2_Aeroacoustics_Crop.jpg "test")
 ![avatar](https://github.com/chenglong92/chenglong92.github.io/blob/ddcf81336308fdbcf32322ec67fc0299ed4c2109/images/Figure2_Aeroacoustics_Crop.jpg "test")
-![avatar]('images/Figure2_Aeroacoustics_Crop.jpg')
+![avatar](/images/Figure2_Aeroacoustics_Crop.jpg)
 
 <img src='images/Figure2_Aeroacoustics_Crop.jpg'>
 
