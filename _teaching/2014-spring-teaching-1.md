@@ -10,7 +10,7 @@ location: "Beijing, China"
 
 This is the introduction of my PHD thesis work. 
 
-Title: "Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"
+**Title: "Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"**
 
 Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm)
 
