@@ -34,10 +34,3 @@ Location: Beijing, China
 &ensp;Finally, the steady loading noise from the 3D open rotor is simulated. More than 80 millions mesh points are utilized for the total computation. But due to the utilization of 480 CPU cores, about 24 hours are only needed for the elapsed wall time on Tianhe-2 supercomputer to obtain long enough unsteady flow field and sound information for post-processing analysis. It exhibits the capability of the developed 3D parallel high-order CFD/CAA solver for direct noise computation with complex moving geometries. 
 
 **Keyword:** Turbomachinery，Multiphysics Coupling，Flow-induced Sound，Cartesian Mesh，CAA，Immersed Boundary Method，Acoustic Resonance，Open Rotor
-
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
