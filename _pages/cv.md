@@ -40,7 +40,7 @@ Honor and Awards
   
 Skills
 ======
-* C++(working language), SYCL(working language), FORTRAN, PYTHON(working language), MATLAB et al.
+* BiSheng C++(working language), SYCL, PYTHON(working language), FORTRAN, MATLAB et al.
 * AI NPU(neural-network Processing Units), domain-specific architecture(DSA)
 * Computational Fluid Dynamics
   * Wall boundary conditions for high-order Computational Aeroacoustics(CAA) methods
