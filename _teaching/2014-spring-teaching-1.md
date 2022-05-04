@@ -3,9 +3,9 @@ title: "My PHD Thesis Work"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Beihang University(BUAA), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory"
-date: 2015-01-01
-location: "City, Country"
+venue: "Beihang University(BUAA), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory(FAEL)"
+date: 2021-01-01
+location: "Beijing, China"
 ---
 
 This is the introduction of my PHD thesis work. 
