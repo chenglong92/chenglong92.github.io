@@ -12,8 +12,11 @@ This is the introduction of my PHD thesis work.
 Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm)
 
 Venue: Beihang University([BUAA](https://ev.buaa.edu.cn/)), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory([FAEL](http://riae.buaa.edu.cn/info/1033/3037.htm))
+
 PHD Viva: 2020-12-6
+
 Viva Committee: Prof. [Mingjiu Ni](https://people.ucas.edu.cn/~mjni?language=en)(Chair), Prof. [Xun Huan](http://www2.coe.pku.edu.cn/faculty/huangxun), Dr. [Dakai Lin](http://bj.comac.cc/), Prof. [Zhengping Zou](http://shi.buaa.edu.cn/zouzhengping/zh_CN/index.htm) and Prof. [Xiaodong Jing](https://www.researchgate.net/profile/Xiaodong-Jing)
+
 Location: Beijing, China
 
 ======
