@@ -15,14 +15,6 @@ Education
 * Ph.D in Aerospace Engineering, Fluid & Acoustics Engineering Laboratory([FAEL](http://riae.buaa.edu.cn/info/1033/3037.htm)), Beihang University(BUAA), Beijing, China, 2021(Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm))
 * One-year Full-time Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 (Supervisor: [Rank Prof. Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)) 
 
-Honor and Awards
-======
-* First-class Sponsorship from China Scholarship Council (CSC, 2019)
-* Scholarship for Excellent New PHD Candidate(BUAA, 2015)
-* Best Paper Award for Graduation Design and University Outstanding Graduate(NWPU, 2014)
-* Meritorious Winner in the Mathematical Contest in Modeling (MCM, SIAM&COMAP, USA, 2013) 
-* National Scholarship (2.2%, Ministry of Education of the People's Republic of China, 2013) 
-
 Work experience
 ======
 * Apr. 2021 - Apr. 2023(Current Position): Research Associate
@@ -32,6 +24,18 @@ Work experience
 * Jan. 2020 - Apr. 2020: Internship Researcher
   * Huawei Cambridge Research Center(CRC), Cambridge, UK
   * Research Topics: Mixed-precision algorithm and Scientific Computing
+
+Funding
+======
+* "Accelerating Aircraft Aerodynamic Noise Simulation using Heterogeneous Computing Power and Mixed-precision Algorithms"(Interdisciplinary Subject: [architecture of computer](https://en.wikipedia.org/wiki/Computer_architecture)-Aircraft Design), China Postdoctoral Science Foundation - General Program, PI, 2021.11-2022.11
+
+Honor and Awards
+======
+* First-class Sponsorship from China Scholarship Council (CSC, 2019)
+* Scholarship for Excellent New PHD Candidate(BUAA, 2015)
+* Best Paper Award for Graduation Design and University Outstanding Graduate(NWPU, 2014)
+* Meritorious Winner in the Mathematical Contest in Modeling (MCM, SIAM&COMAP, USA, 2013) 
+* National Scholarship (2.2%, Ministry of Education of the People's Republic of China, 2013) 
   
 Skills
 ======
