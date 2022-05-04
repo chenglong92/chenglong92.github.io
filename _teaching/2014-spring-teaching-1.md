@@ -3,15 +3,17 @@ title: "My PHD Thesis Work"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Beihang University(BUAA), School of Energy and Power Enigeering, [Fluid & Acoustics Engineering Laboratory(FAEL)](http://riae.buaa.edu.cn/info/1033/3037.htm)"
+venue: "Beihang University(BUAA), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory(FAEL)"
 date: 2021-01-01
 location: "Beijing, China"
 ---
 
 This is the introduction of my PHD thesis work. 
 
-Title: "Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"  
-Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm)  
+Title: "Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"
+
+Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm)
+
 ======
 **[Abstract]** 
 {Sound waves are mostly viewed as the undesirable by-product of unsteady aerodynamics or structural vibration in turbomachinery due to its small magnitude feature, and thus evaluated in an uncoupled manner. However, strong interaction among sound、fluid and structure possibly appears in modern high-loading turbomachinery. This category of interaction effect, to some extent, is thought to be associated with some influential factors to structural integrity such as acoustic resonance (AR) and acoustic flutter. On the other hand, it is found that multiphysics coupling effect also has a positive side. It laid a solid foundation for many modern active and passive control techniques for aerodynamic noise and flow instability. For instance, acoustic liner design and Stall precursor-suppressed (SPS) casing treatment have a closely-knit relationship with vortex-sound interaction. Hence, the improvement of the comprehensive understanding to the multiphysics coupling effect is definitely beneficial to the development of much more effective active or passive control techniques. Distinct with the mostly-adopted Lighthill's acostic analogy theory in pure aeroacoustic problems, when associated with the multiphysics coupling effect associated with sound waves, the accurate description of the nonlinear processes of sound interacting with fluid and moving solid boundaries is quite essential. By directly solving nonlinear governing equations, it is generally accepted that modern computational aeroacoustics (CAA) is the one of the most appropriate ways to model these nonlinear processes. 
