@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Aerospace Engineering, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
 * Ph.D in Aerospace Engineering, Fluid & Acoustics Engineering Laboratory([FAEL](http://riae.buaa.edu.cn/info/1033/3037.htm)), Beihang University(BUAA), Beijing, China, 2021(Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm))
-* One-year Full-time Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 (Supervisor: [Rank Prof. Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)) 
+* 1-year Full-time Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 (Supervisor: [Rank Prof. Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)) 
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Funding
 
 Honor and Awards
 ======
-* Honorable Award from the First National Post-doc Innovation and Entrepreneurship Competition(MHRSS, 2021)
+* Honorable Award from the First National Post-doc Innovation and Entrepreneurship Competition(MHRSS, China, 2021)
 * First-class Sponsorship from China Scholarship Council (CSC, 2019)
 * Scholarship for Excellent New PHD Candidate(BUAA, 2015)
 * Best Paper Award for Graduation Design and University Outstanding Graduate(NWPU, 2014)
@@ -44,7 +44,7 @@ Skills
 * AI NPU(neural-network Processing Units), domain-specific architecture(DSA)
 * Computational Fluid Dynamics
   * Wall boundary conditions for high-order Computational Aeroacoustics(CAA) methods
-  * MPI-based distributed parallel CFD Solver(FDM)
+  * MPI-based Massively Distributed Parallel CFD Solver - [CartCAaS](https://chenglong92.github.io/teaching/)
   * Synthetic Turbulence
 * Scientific Computing
   * High-level Abstraction of Matrix Algorithms in implicit Methods 
