@@ -11,6 +11,7 @@ This is the introduction of my PHD thesis work.
 
   * Supervisor: Prof. [Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm) and Rank Prof. [Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)
   * Venue: Beihang University([BUAA](https://ev.buaa.edu.cn/)), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory([FAEL](http://riae.buaa.edu.cn/info/1033/3037.htm))
+  * Collection: [BUAA Library](https://paper-lib-buaa-edu-cn-s.vpn.buaa.edu.cn:8118/docinfo.action?id1=003e8e3f7d1227e96e0ffc3016b3d160&id2=pft2AnP7Pjo%253D)
   * Location: Beijing, China
   * Defense Committee: Prof. [Mingjiu Ni](https://people.ucas.edu.cn/~mjni?language=en)(Chair), Prof. [Xun Huang](http://www2.coe.pku.edu.cn/faculty/huangxun), Dr. [Dakai Lin](http://bj.comac.cc/), Prof. [Zhengping Zou](http://shi.buaa.edu.cn/zouzhengping/zh_CN/index.htm) and Prof. [Xiaodong Jing](https://www.researchgate.net/profile/Xiaodong-Jing)
   * Oral Defense Date: 2020-12-6
