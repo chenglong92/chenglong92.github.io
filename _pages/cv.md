@@ -46,7 +46,7 @@ Skills
   * Wall boundary conditions for high-order Computational Aeroacoustics(CAA) methods
   * MPI-based distributed parallel CFD Solver(FDM)
   * Synthetic Turbulence
-* Scientif Computing
+* Scientific Computing
   * Mixed-precision algorithm for dense matrix
   * Mixed-precision algorithm for sparse matrix on unstructured mesh
 
