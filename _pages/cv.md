@@ -27,10 +27,11 @@ Work experience
 
 Funding
 ======
-* "Accelerating Aircraft Aerodynamic Noise Simulation using Heterogeneous Computing Power and Mixed-precision Algorithms"(Interdisciplinary Subject: [architecture of computer](https://en.wikipedia.org/wiki/Computer_architecture)-Aircraft Design), China Postdoctoral Science Foundation - General Program, PI, 2021.11-2022.11
+* "Accelerating Aircraft Aerodynamic Noise Simulation using Heterogeneous Computing Power and Mixed-precision Algorithms"(Interdisciplinary Subject: [architecture of computer](https://en.wikipedia.org/wiki/Computer_architecture)-[Aerospace Engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)), China Postdoctoral Science Foundation - General Program, PI, 2021.11-2022.11
 
 Honor and Awards
 ======
+* Honorable Award from the First National Post-doc Innovation and Entrepreneurship Competition(MHRSS, 2021)
 * First-class Sponsorship from China Scholarship Council (CSC, 2019)
 * Scholarship for Excellent New PHD Candidate(BUAA, 2015)
 * Best Paper Award for Graduation Design and University Outstanding Graduate(NWPU, 2014)
