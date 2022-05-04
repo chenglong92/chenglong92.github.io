@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "My PHD Thesis Work"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Beihang University(BUAA), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory"
 date: 2015-01-01
 location: "City, Country"
 ---
