@@ -9,7 +9,7 @@ main:
   - title: "Portfolio"
     url: /portfolio/
     
-  - title: "PHD-Thesis" #"Teaching"
+  - title: "My-PHD-Thesis" #"Teaching"
     url: /teaching/
         
   - title: "Softwares"
