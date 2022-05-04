@@ -41,7 +41,7 @@ Honor and Awards
 Skills
 ======
 * C++(working language), SYCL(working language), FORTRAN, PYTHON(working language), MATLAB et al.
-* AI NPU(neural network) domain-specific architecture(DSA)
+* AI NPU(neural-network Processing Units) domain-specific architecture(DSA)
 * Computational Fluid Dynamics
   * Wall boundary conditions for high-order Computational Aeroacoustics(CAA) methods
   * MPI-based distributed parallel CFD Solver(FDM)
