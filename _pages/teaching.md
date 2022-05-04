@@ -7,7 +7,7 @@ author_profile: true
 
 This is the introduction of my PHD thesis work. 
 
-**Title: ["Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"](https://paper-lib-buaa-edu-cn-s.vpn.buaa.edu.cn:8118/docinfo.action?id1=003e8e3f7d1227e96e0ffc3016b3d160&id2=pft2AnP7Pjo%253D)**
+**Title: **"[Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics](https://paper-lib-buaa-edu-cn-s.vpn.buaa.edu.cn:8118/docinfo.action?id1=003e8e3f7d1227e96e0ffc3016b3d160&id2=pft2AnP7Pjo%253D)"
 
   * Supervisor: Prof. [Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm) and Rank Prof. [Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)
   * Venue: Beihang University([BUAA](https://ev.buaa.edu.cn/)), School of Energy and Power Enigeering, Fluid & Acoustics Engineering Laboratory([FAEL](http://riae.buaa.edu.cn/info/1033/3037.htm))
