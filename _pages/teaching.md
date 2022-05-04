@@ -7,8 +7,8 @@ author_profile: true
 
 This is the introduction of my PHD thesis work. 
 
-<img src='https://github.com/chenglong92/chenglong92.github.io/blob/master/images/Figure2_Aeroacoustics_Crop.jpg'>
 ![avatar](https://github.com/chenglong92/chenglong92.github.io/blob/master/images/Figure2_Aeroacoustics_Crop.jpg)
+![avatar](https://github.com/chenglong92/chenglong92.github.io/blob/ddcf81336308fdbcf32322ec67fc0299ed4c2109/images/Figure2_Aeroacoustics_Crop.jpg)
 
 **Title:** ["Prediction Methods of the Flow-induced Sound in Turbomachinery and the Coupling Effects of Multiphysics"](https://paper-lib-buaa-edu-cn-s.vpn.buaa.edu.cn:8118/docinfo.action?id1=003e8e3f7d1227e96e0ffc3016b3d160&id2=pft2AnP7Pjo%253D)
 
