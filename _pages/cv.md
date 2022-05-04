@@ -50,6 +50,7 @@ Skills
   * High-level Abstraction of Matrix Algorithms in implicit Methods 
   * Mixed-precision algorithm for dense matrix
   * Mixed-precision algorithm for sparse matrix on unstructured mesh
+  * Iterative Refinement Algorithms
 
 Selected Publications
 ======
