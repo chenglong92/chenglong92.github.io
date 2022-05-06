@@ -10,9 +10,9 @@ redirect_from:
 
 I am a research associate in the heterogeneous programming group at 2012 Labs of Huawei Technologies. My research here is about mixed-precision numerical computation and application. The focus is on the numerical stability and convergence analysis of mixed-precision numerical linear algebraic(NLA) algorithms. It is beneficial to improve the robustness of low-precision algorithms, particularly for the efficient half precision arithmetics. The half-precision arithmetics and domain-specific architectures(DSA) are thought to be one of the most promising routines of magically accelerating exascale super-computing applications like weather forecasting and turbulence simulation in a 'green' way. My current research work is on:
 
-   * Mixed-precision numerical algorithms for dense linear system of equations on CPU-NPU(Neural-network Processing Units) heterogeneous architecture;
-   * Mixed-precision numerical algorithms for sparse linear system of equations for unstructured grid in high-order CFD(computational fluid dynamics);
-   * Application of dense mixed-precision numerical algorithms in boundary element method(BEM) for acoustics and electromagnetics.
+   * Mixed-precision numerical algorithms for dense and sparse NLA;
+   * Mixed-precision acceleration of high-order CFD simulation on unstructured grid; 
+   * Mixed-precision acceleration of boundary element method(BEM) for acoustic and electromagnetic simulation.
 
 A data-driven personal website
 ======
