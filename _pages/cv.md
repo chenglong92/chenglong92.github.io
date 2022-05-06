@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Aerospace Engineering, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
-* Ph.D in Aerospace Engineering, Fluid & Acoustics Engineering Laboratory([FAEL](http://riae.buaa.edu.cn/info/1033/3037.htm)), Beihang University(BUAA), Beijing, China, 2021(Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm))
+* Ph.D in Aerospace Engineering, Fluid & Acoustics Engineering Laboratory([FAEL]( fael.buaa.edu.cn)), Beihang University(BUAA), Beijing, China, 2021(Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm))
 * 1-year Full-time Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 (Supervisor: [Rank Prof. Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)) 
 
 Work experience
@@ -21,7 +21,7 @@ Work experience
   * Compiler and Programming Language Lab., Huawei BRC, Beijing, China
   * Research Topics: heterogeneous programming, mixed-precision algorithms and computational physics applications. 
 
-* Jan. 2020 - Apr. 2020: Internship Researcher
+* Jan. 2020 - Apr. 2020: Intern Researcher
   * Huawei Cambridge Research Center(CRC), Cambridge, UK
   * Research Topics: Mixed-precision algorithm and Scientific Computing
 
