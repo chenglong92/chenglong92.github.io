@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Aerospace Engineering, Northwestern Polytechnical University(NWPU), Xi’an, China, 2014
-* Ph.D in Aerospace Engineering, Fluid & Acoustics Engineering Laboratory([FAEL]( fael.buaa.edu.cn)), Beihang University(BUAA), Beijing, China, 2021(Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm))
+* Ph.D in Aerospace Engineering, Fluid & Acoustics Engineering Laboratory([FAEL](fael.buaa.edu.cn)), Beihang University(BUAA), Beijing, China, 2021(Supervisor: [Prof. Xiaofeng Sun](http://shi.buaa.edu.cn/sunxiaofeng/en/index.htm))
 * 1-year Full-time Visiting PhD Student in Computational Fluid Dynamics, Department of Engineering, University of Cambridge(CUED), CB2 1PZ, UK, 2019-2020 (Supervisor: [Rank Prof. Paul Gary Tucker](http://www.eng.cam.ac.uk/profiles/pgt23)) 
 
 Work experience
