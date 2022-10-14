@@ -1,5 +1,5 @@
 ---
-title: "1. The Backward Error Analysis of \boldsymbol{Ax} = \boldsymbol{b} with Mixed Precisions"
+title: "1. The Backward Error Analysis of \mathbf{Ax} = \mathbf{b} with Mixed Precisions"
 excerpt: "Oct. 14, 2022, Edited by Cheng Long"
 collection: portfolio
 ---
@@ -9,9 +9,9 @@ collection: portfolio
 1: Do the low-precision matrix decomposition.
 ```
 
-&ensp; For instance, in the single-double-quad three-precision LU-GMRES algorithm, when the matrix $\boldsymbol{A}$ is decomposed as $\boldsymbol{A}=\boldsymbol{LU}$, the single-precision $\boldsymbol{LU}$ factor is obtained. But in the following IR phase, the following formulation is adopted:
-$$\boldsymbol{A}_{fp32} \boldsymbol{d}_{fp64}=\boldsymbol{r}_{fp64}$$,
+&ensp; For instance, in the single-double-quad three-precision LU-GMRES algorithm, when the matrix $\mathbf{A}$ is decomposed as $\mathbf{A}=\mathbf{LU}$, the single-precision $\mathbf{LU}$ factor is obtained. But in the following IR phase, the following formulation is adopted:
+$$\mathbf{A}_{fp32} \mathbf{d}_{fp64}=\mathbf{r}_{fp64}$$,
 where
-$$\boldsymbol{A}_{fp32} = (\boldsymbol{LU})_{fp64}$$
+$$\mathbf{A}_{fp32} = (\mathbf{LU})_{fp64}$$
 and 
-$$\boldsymbol{r}_{fp64} = \boldsymbol{b}_{fp64} - \boldsymbol{A}_{fp64}\boldsymbol{x}_{fp64}$$
+$$\mathbf{r}_{fp64} = \mathbf{b}_{fp64} - \mathbf{A}_{fp64}\mathbf{x}_{fp64}$$
