@@ -4,7 +4,7 @@ excerpt: "Oct. 14, 2022, Edited by Cheng Long"
 collection: portfolio
 ---
 
-&ensp;For the solution of linear system of equations: $\mathbf{Ax} = \mathbf{b}$, in the mixed-precision algorithms [Higham, SIAM of JSC], the low-precision matrix decomposition: $\boldsymbol{A}=\boldsymbol{LU}$ is used as the preconditioner in the iterative refinment(IR) phase. The complete three-precision algorithm is shown below:
+&ensp;For the solution of linear system of equations: $\mathbf{Ax} = \mathbf{b}$, in the mixed-precision algorithms [Higham, SIAM of JSC], the low-precision matrix decomposition: $\mathbf{A}=\mathbf{LU}$ is used as the preconditioner in the iterative refinment(IR) phase. The complete three-precision algorithm is shown below:
 ```bash
 1: Do the low-precision matrix decomposition.
 ```
