@@ -1,5 +1,5 @@
 ---
-title: "1. The Backward Error Analysis of \mathbf{Ax} = \mathbf{b} with Mixed Precisions"
+title: "1. The Backward Error Analysis of $\mathbf{Ax} = \mathbf{b}$ with Mixed Precisions"
 excerpt: "Oct. 14, 2022, Edited by Cheng Long"
 collection: portfolio
 ---
