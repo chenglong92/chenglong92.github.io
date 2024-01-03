@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* Apr. 2021 - Apr. 2023(Current Position): Research Associate
+* Sep. 2023 ~: Principal Engineer
+  * Compiler and Programming Language Lab., Huawei BRC, Beijing, China
+  * Research Topics: HPC/AI, Large Language Model(LLM), heterogeneous programming Language and Compilers, mixed-precision algorithms. 
+* Apr. 2021 - Sep. 2023: Research Associate
   * Compiler and Programming Language Lab., Huawei BRC, Beijing, China
   * Research Topics: heterogeneous programming, mixed-precision algorithms and computational physics applications. 
 
