@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Long Cheng"
   avatar           : "LCheng.jpeg" #"profile.png"
-  bio              : "Accelerating computational physics simulation by designing new numerical algorithms adapted to modern domain-specific chip architectures <br> <br> <a style='color: black;' >Research Associate</a>  at Beijing Research Center(BRC), <a style='color: black;' >Huawei 2012 Laboratory</a>, Compiler and Programming Language Laboratory"
+  bio              : "Accelerating computational physics simulation by designing new numerical algorithms adapted to modern domain-specific chip architectures <br> <br> <a style='color: black;' >Principal Engineer(Research)</a>  at Beijing Research Center(BRC), <a style='color: black;' >Huawei 2012 Laboratory</a>, Compiler and Programming Language Laboratory"
   location         : "Beijing, CN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
